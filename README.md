@@ -24,7 +24,7 @@ sizeToBytes(int, string);
 ###Example:
 
 ``` javascript
-sizeToBytes(1, 'KB');	//1024
-sizeToBytes(1, 'MB');	//1048576
-sizeToBytes(1, 'TB');	//1099511627776
+sizeToBytes(1, 'KB'); //1024
+sizeToBytes(1, 'MB'); //1048576
+sizeToBytes(1, 'TB'); //1099511627776
 ```
